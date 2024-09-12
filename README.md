@@ -54,7 +54,7 @@ node app.js
 Refer to `app.js`
 
 ## Full Tutorial
-For a detailed step-by-step tutorial, visit wengindustries.com/app/devbrain/?open=Google%20Sheet%20API%20-%20_PRIMER.md.
+For a detailed step-by-step tutorial, visit https://wengindustries.com/app/devbrain/?open=Google%20Sheet%20API%20-%20_PRIMER.md.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
